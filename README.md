@@ -12,26 +12,16 @@
 </div>
 
 ## <p>> whoami 👋</p>
+
 <div style="display: flex; flex-direction: row; align-items:center; justify-content: center; margin: 20px">
 <p style="width:100%; margin: 20px;">
 Hi, I'm <b>Ranjit</b>, a 3rd-year Computer Science student with a passion for front-end web development and exploring new technologies.I enjoy working on personal projects, building responsive websites, and experimenting with UI/UX design. I am also focused on strengthening my skills in Data Structures and Algorithms using C++.
 </p>
 
 </div>
-<div style="
-    width: auto;
-    padding: 10px 0 0 0;
-    margin: 20px;
-    display: flex; 
-    align-items: center;
-    justify-content: center; 
-    text-align: center;
-    font-size: 20px;
-    font-weight: bold;
-    border: 1px solid rgba(69, 235, 113, 0.573);
-    border-radius: 8px;
-    background: #16DB65;
-"><p><a style="text-decoration:none; color: #000000; margin:20px" href="ranjitdey.vercel.app">Visit my portfolio</a></p></div>
+
+<a align="center" style="text-decoration:none; font-weight:bold;color: #16db65; margin:50px 10px; font-size: 20px" href="https://ranjitdey.vercel.app/" target="_blank">Visit my portfolio</a>
+<img src="link.png"></img>
 
 
 
