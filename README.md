@@ -20,11 +20,11 @@ Hi, I'm <b>Ranjit</b>, a 3rd-year Computer Science student with a passion for fr
 
 </div>
 
-<p align="center">
-  <a href="https://ranjitdey.vercel.app/" target="_blank" style="text-decoration:none; font-weight:bold; color:#16db65; font-size:20px; margin:50px 10px;">Visit my portfolio</a>
-</p>
+<div align="center" style="display: flex; align-items: center; gap: 15px; margin: 50px 10px;">
+  <a href="https://ranjitdey.vercel.app/" target="_blank" style="text-decoration: none; font-weight: bold; color: #16db65; font-size: 20px;">Visit my portfolio</a>
+  <img src="link.png" alt="Portfolio Image" style="height: auto; max-width: 100px;">
+</div>
 
-<img src="link.png"></img>
 
 
 
