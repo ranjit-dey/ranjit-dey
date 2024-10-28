@@ -1,31 +1,64 @@
-<h1 align="center">Hi 👋, I'm Ranjit Dey</h1>
-<h3 align="center">tech enthusiast | frontend developer</h3>
+<div align="center">
+  <img alt="banner" src="githubbanner.png" style="margin: auto;">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjit-dey&label=Profile%20views&color=0e75b6&style=flat" alt="ranjit-dey" /> </p>
+<br>
+<div align="center">
+<a href="https://www.linkedin.com/in/ranjitdey/"><img src="https://img.shields.io/badge/LinkedIn-00A84C?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="profile of LinkedIn with username ranjit-dey" /></a>
+<a href="mailto:ranjitdey05265@gmail.com"><img src="https://img.shields.io/badge/Gmail-00A84C?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="email of Ranjit i.e.   ranjitdey05265@gmail.com" /></a> 
+<a href="https://www.x.com/ranjitdey_"><img src="https://img.shields.io/badge/Twitter-00A84C?style=for-the-badge&logo=x&logoColor=ffffff" alt="profile of Twitter with username ranjitdey_" ></a>
+<a href="https://www.instagram.com/_ranjitdey"><img src="https://img.shields.io/badge/Instagram-00A84C?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="profile of Twitter with username ranjitdey_" ></a>
+<a href="https://www.facebook.com/ranjitdey2004"><img src="https://img.shields.io/badge/Facebook-00A84C?style=for-the-badge&logo=facebook&logoColor=ffffff" alt="profile of Twitter with username ranjitdey_" ></a>
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Javascript**
-
-- 👨‍💻 All of my projects are available at [ranjitdey.vercel.app](ranjitdey.vercel.app)
-
-- 💬 Ask me about **C, C++**
-
-- 📫 How to reach me **ranjitdey05265@gmail.com**
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ranjit-dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjit-dey" height="30" width="40" /></a>
-<a href="https://fb.com/ranjitdey2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranjitdey2004" height="30" width="40" /></a>
-<a href="https://instagram.com/_ranjitdey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ranjitdey" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ranjit-dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranjit-dey" height="30" width="40" /></a>
+## <p>> whoami 👋</p>
+<div style="display: flex; flex-direction: row; align-items:center; justify-content: center; margin: 20px">
+<p style="width:100%; margin: 20px;">
+Hi, I'm <b>Ranjit</b>, a 3rd-year Computer Science student with a passion for front-end web development and exploring new technologies.I enjoy working on personal projects, building responsive websites, and experimenting with UI/UX design. I am also focused on strengthening my skills in Data Structures and Algorithms using C++.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
+<div style="
+    width: auto;
+    padding: 10px 0 0 0;
+    margin: 20px;
+    display: flex; 
+    align-items: center;
+    justify-content: center; 
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    border: 1px solid rgba(69, 235, 113, 0.573);
+    border-radius: 8px;
+    background: #16DB65;
+"><p><a style="text-decoration:none; color: #000000;">Visit my portfolio</a></p></div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjit-dey&show_icons=true&locale=en&layout=compact" alt="ranjit-dey" /></p>
+### Technical Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="20">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjit-dey&show_icons=true&locale=en" alt="ranjit-dey" /></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,figma,html,css,javascript,python,linux,tailwind" />
+  </a>
+</p>
+
+ <br />
+
+### Github Stats 📊
+
+| [![Ranjit Dey github stats](https://github-readme-stats-mc4l.vercel.app/api?username=ranjit-dey&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&title_color=ffffff&icon_color=ffffff&text_color=16DB65&border_color=ffffff&border_radius=8)](https://github.com/ranjit-dey#gh-dark-mode-only) | [![Ranjit Dey GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranjit-dey&background=transparent&ring=16DB65&border_color=ffffff&border_radius=8&currStreakLabel=ffffff&currStreakNum=16DB65&sideNums=ffffff&sideLabels=16DB65&dates=ffffff)](https://github.com/ranjit-dey#gh-dark-mode-only) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [![Ranjit Dey github stats](https://github-readme-stats-mc4l.vercel.app/api?username=ranjit-dey&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&title_color=000000&icon_color=000000&text_color=16DB65&border_color=000000&border_radius=8)](https://github.com/ranjit-dey#gh-light-mode-only) | [![Ranjit Dey GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranjit-dey&background=transparent&ring=16DB65&border=000000&border_radius=8&stroke=000000&currStreakLabel=000000&currStreakNum=16DB65&sideNums=000000&sideLabels=16DB65&dates=000000)](https://github.com/ranjitdey#gh-light-mode-only) |
+
+[![Ranjit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ranjit-dey&bg_color=transparent&title_color=ffffff&theme=github-compact&hide_border=false#gh-dark-mode-only)](https://github.com/ranjit-dey#gh-dark-mode-only)
+
+<!-- Light Mode -->
+
+[![Ranjit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ranjit-dey&bg_color=transparent&title_color=000000&theme=github-compact&hide_border=false#gh-light-mode-only)](https://github.com/ranjit-dey#gh-light-mode-only)
+
+<br>
+
+
+<div align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ranjit-dey&label=Profile%20views&color=16DB65&style=flat&width=50px" alt="ranjit-dey" /> </p>
+<p style="font-weight: bold; font-size: 20px">Thanks for visiting..</p>
+</div>
