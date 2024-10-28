@@ -31,7 +31,9 @@ Hi, I'm <b>Ranjit</b>, a 3rd-year Computer Science student with a passion for fr
     border: 1px solid rgba(69, 235, 113, 0.573);
     border-radius: 8px;
     background: #16DB65;
-"><p><a style="text-decoration:none; color: #000000;">Visit my portfolio</a></p></div>
+"><p><a style="text-decoration:none; color: #000000; margin:20px" href="ranjitdey.vercel.app">Visit my portfolio</a></p></div>
+
+
 
 ### Technical Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="20">
 
