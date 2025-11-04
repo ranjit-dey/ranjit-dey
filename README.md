@@ -32,7 +32,7 @@ Hi, I'm <b>Ranjit</b>, a final-year Computer Science student with a passion for 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,node,git,c,cpp,figma,html,css,javascript,python,linux,tailwind,java" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,git,c,cpp,figma,html,css,javascript,python,linux,tailwind,java" />
   </a>
 </p>
 
