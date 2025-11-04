@@ -15,7 +15,7 @@
 
 <div style="display: flex; flex-direction: row; align-items:center; justify-content: center; margin: 20px">
 <p style="width:100%; margin: 20px;">
-Hi, I'm <b>Ranjit</b>, a 3rd-year Computer Science student with a passion for front-end web development and exploring new technologies.I enjoy working on personal projects, building responsive websites, and experimenting with UI/UX design. I am also focused on strengthening my skills in Data Structures and Algorithms using C++.
+Hi, I'm <b>Ranjit</b>, a final-year Computer Science student with a passion for full stack web development and exploring new technologies.I enjoy working on personal projects, building responsive websites, and experimenting with UI/UX design. I am also focused on strengthening my skills in Data Structures and Algorithms using Java.
 </p>
 
 </div>
