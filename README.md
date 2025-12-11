@@ -19,6 +19,8 @@ Hi, I'm **Ranjit**, a final-year Computer Science student with a passion for ful
 
 [<== Visit my portfolio ==>](https://ranjitdey.vercel.app/)
 
+<br>
+
 ![Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,tailwind,git,figma,c,cpp,java,python,linux)
 
 </div>
