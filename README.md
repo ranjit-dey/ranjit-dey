@@ -1,6 +1,6 @@
 ![banner](banner.png)
 
-<div align=center>
+<div align=center style="display: flex; align-items: center; justify-content:center;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00A84C?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ranjitdey/) [![Gmail](https://img.shields.io/badge/Gmail-00A84C?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:ranjitdey05265@gmail.com) [![X](https://img.shields.io/badge/X-00A84C?style=for-the-badge&logo=x&logoColor=ffffff)](https://www.x.com/ranjitdey_) [![Instagram](https://img.shields.io/badge/Instagram-00A84C?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/_ranjitdey) [![Facebook](https://img.shields.io/badge/Facebook-00A84C?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ranjitdey2004)
 
@@ -8,7 +8,7 @@
 
 ## whoami 👋
 
-Hi, I'm **Ranjit**, a final-year Computer Science student with a passion for full stack web development and exploring new technologies. I enjoy working on personal projects, building responsive websites, and experimenting with UI/UX design. I am also focused on strengthening my skills in Data Structures and Algorithms using Java.
+Hi, I'm **Ranjit Dey**, a final-year Computer Science student with a passion for full stack web development and exploring new technologies. I enjoy working on personal projects, building responsive websites, and experimenting with UI/UX design. I am also focused on strengthening my skills in Data Structures and Algorithms using Java.
 
 <div align=center>
 
