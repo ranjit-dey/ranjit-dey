@@ -69,7 +69,6 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 <a href="https://ranjitdey.in/github"><img src="https://ranjitdey.in/api/svg/stats?username=ranjit-dey" alt="Ranjit Dey GitHub Stats" width="49.5%" height="auto" /></a>
 <a href="https://ranjitdey.in/github"><img src="https://ranjitdey.in/api/svg/streak?username=ranjit-dey" alt="Ranjit Dey GitHub Streak" width="49.5%" height="auto" /></a>
 
-
 <a href="https://ranjitdey.in/github">
   <img src="https://ranjitdey.in/api/svg/activity?username=ranjit-dey" alt="Ranjit Dey GitHub Activity Graph" width="100%" height="auto" />
 </a>
@@ -82,13 +81,13 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 You can query real-time GitHub statistics and contribution calendars for **any GitHub account** using the open APIs deployed on my portfolio:
 
-| Endpoint | Method | Description |
-| :--- | :---: | :--- |
-| [`/api/contributions?username={user}`](https://ranjitdey.in/api/contributions?username=ranjit-dey) | `GET` | Full day-by-day contribution counts, streaks & calendar |
-| [`/api/stats?username={user}`](https://ranjitdey.in/api/stats?username=ranjit-dey) | `GET` | Stars, forks, repos, rank level (S+/A+/A), PRs & monthly trends |
-| [`/api/svg/stats?username={user}`](https://ranjitdey.in/api/svg/stats?username=ranjit-dey) | `GET` | Dynamic real-time statistics SVG badge |
-| [`/api/svg/streak?username={user}`](https://ranjitdey.in/api/svg/streak?username=ranjit-dey) | `GET` | Dynamic contribution streak SVG counter |
-| [`/api/svg/activity?username={user}`](https://ranjitdey.in/api/svg/activity?username=ranjit-dey) | `GET` | Dynamic monthly activity graph SVG |
+| Endpoint                                                                                           | Method | Description                                                     |
+| :------------------------------------------------------------------------------------------------- | :----: | :-------------------------------------------------------------- |
+| [`/api/contributions?username={user}`](https://ranjitdey.in/api/contributions?username=ranjit-dey) | `GET`  | Full day-by-day contribution counts, streaks & calendar         |
+| [`/api/stats?username={user}`](https://ranjitdey.in/api/stats?username=ranjit-dey)                 | `GET`  | Stars, forks, repos, rank level (S+/A+/A), PRs & monthly trends |
+| [`/api/svg/stats?username={user}`](https://ranjitdey.in/api/svg/stats?username=ranjit-dey)         | `GET`  | Dynamic real-time statistics SVG badge                          |
+| [`/api/svg/streak?username={user}`](https://ranjitdey.in/api/svg/streak?username=ranjit-dey)       | `GET`  | Dynamic contribution streak SVG counter                         |
+| [`/api/svg/activity?username={user}`](https://ranjitdey.in/api/svg/activity?username=ranjit-dey)   | `GET`  | Dynamic monthly activity graph SVG                              |
 
 > **Base URL:** `https://ranjitdey.in` — free to use in your own profile README!
 
