@@ -50,24 +50,15 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 You can query real-time GitHub statistics and contribution calendars for **any GitHub account** using the open APIs deployed on my portfolio:
 
-### 1. Contribution Calendar & Streak API
-```http
-GET https://ranjitdey.in/api/contributions?username=YOUR_GITHUB_USERNAME
-```
-*Returns full day-by-day contribution counts, quartile levels, streak calculation, and active days.*
+| Endpoint | Method | Description |
+| :--- | :---: | :--- |
+| [`/api/contributions?username={user}`](https://ranjitdey.in/api/contributions?username=ranjit-dey) | `GET` | Full day-by-day contribution counts, streaks & calendar |
+| [`/api/stats?username={user}`](https://ranjitdey.in/api/stats?username=ranjit-dey) | `GET` | Stars, forks, repos, rank level (S+/A+/A), PRs & monthly trends |
+| [`/api/svg/stats?username={user}`](https://ranjitdey.in/api/svg/stats?username=ranjit-dey) | `GET` | Dynamic real-time statistics SVG badge |
+| [`/api/svg/streak?username={user}`](https://ranjitdey.in/api/svg/streak?username=ranjit-dey) | `GET` | Dynamic contribution streak SVG counter |
+| [`/api/svg/activity?username={user}`](https://ranjitdey.in/api/svg/activity?username=ranjit-dey) | `GET` | Dynamic monthly activity graph SVG |
 
-### 2. User Stats & Metrics API
-```http
-GET https://ranjitdey.in/api/stats?username=YOUR_GITHUB_USERNAME
-```
-*Returns total stars, forks, repositories, rank level (S+/A+/A), PR counts, issue counts, and monthly trends.*
-
-### 3. Dynamic SVG Cards & Graph APIs
-```http
-GET https://ranjitdey.in/api/svg/stats?username=YOUR_GITHUB_USERNAME
-GET https://ranjitdey.in/api/svg/streak?username=YOUR_GITHUB_USERNAME
-GET https://ranjitdey.in/api/svg/activity?username=YOUR_GITHUB_USERNAME
-```
+> **Base URL:** `https://ranjitdey.in` — free to use in your own profile README!
 
 ---
 
