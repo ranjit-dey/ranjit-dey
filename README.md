@@ -66,16 +66,14 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 <div align="center">
 
-<table align="center" width="100%">
-  <tbody>
-    <tr>
-      <td align="center" width="50%"><a href="https://ranjitdey.in/github"><img src="https://ranjitdey.in/api/svg/stats?username=ranjit-dey" alt="Ranjit Dey GitHub Stats" width="100%" height="auto" /></a></td>
-      <td align="center" width="50%"><a href="https://ranjitdey.in/github"><img src="https://ranjitdey.in/api/svg/streak?username=ranjit-dey" alt="Ranjit Dey GitHub Streak" width="100%" height="auto" /></a></td>
-    </tr>
-  </tbody>
-</table>
+<a href="https://ranjitdey.in/github">
+  <img src="https://ranjitdey.in/api/svg/stats?username=ranjit-dey" alt="Ranjit Dey GitHub Stats" width="49%" height="auto" />
+</a>
+<a href="https://ranjitdey.in/github">
+  <img src="https://ranjitdey.in/api/svg/streak?username=ranjit-dey" alt="Ranjit Dey GitHub Streak" width="49%" height="auto" />
+</a>
 
-<br/>
+<br/><br/>
 
 <a href="https://ranjitdey.in/github">
   <img src="https://ranjitdey.in/api/svg/activity?username=ranjit-dey" alt="Ranjit Dey GitHub Activity Graph" width="100%" height="auto" />
