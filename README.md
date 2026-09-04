@@ -1,6 +1,6 @@
 ![banner](banner.png)
 
-<div align=center>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00A84C?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ranjitdey/) [![Gmail](https://img.shields.io/badge/Gmail-00A84C?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:ranjitdey05265@gmail.com) [![X](https://img.shields.io/badge/X-00A84C?style=for-the-badge&logo=x&logoColor=ffffff)](https://www.x.com/ranjitdey_) [![Instagram](https://img.shields.io/badge/Instagram-00A84C?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/_ranjitdey) [![Facebook](https://img.shields.io/badge/Facebook-00A84C?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ranjitdey2004)
 
@@ -11,44 +11,67 @@
 Hi, I'm **Ranjit Dey**, a CS Guy who loves building things, solving problems, and learning new technologies.
 Currently exploring full-stack development, backend engineering, and AI while turning ideas into real-world projects.
 
-<div align=center>
+<div align="center">
 
-[<== Visit my portfolio ==>](https://ranjitdey.vercel.app/)
+[![Visit Portfolio](https://img.shields.io/badge/🌐_Explore_Portfolio-ranjitdey.in-16DB65?style=for-the-badge&logoColor=white&labelColor=0d1117)](https://ranjitdey.in)
+[![GitHub Insights](https://img.shields.io/badge/📊_Live_GitHub_Dashboard-ranjitdey.in%2Fgithub-00A84C?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://ranjitdey.in/github)
 
-<br>
+<br/>
 
-![Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,tailwind,git,figma,c,cpp,java,python,linux)
+### 🛠️ Tech Stack & Tools
 
-</div>
-
-## Github Stats and Streak 📊
-
-| [![Ranjit Dey github stats](https://github-readme-stats-mc4l.vercel.app/api?username=ranjit-dey&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&title_color=ffffff&icon_color=ffffff&text_color=16DB65&border_color=00000000&border_radius=8)](https://github.com/ranjit-dey) | [![Ranjit Dey GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=ranjit-dey&theme=transparent&text_color=16DB65&border_color=00000000&border=50&stroke=000000&currStreakLabel=000000&currStreakNum=16DB65&sideNums=000000&sideLabels=16DB65&dates=000000)](https://github.com/ranjit-dey) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<!-- | [![Ranjit Dey github stats](https://github-readme-stats-mc4l.vercel.app/api?username=ranjit-dey&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&title_color=000000&icon_color=000000&text_color=16DB65&border_color=000000&border_radius=8)](https://github.com/ranjit-dey#gh-light-mode-only) | [![Ranjit Dey GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=ranjit-dey&theme=transparent&text_color=16DB65&border_color=000000&stroke=000000&currStreakLabel=000000&currStreakNum=16DB65&sideNums=000000&sideLabels=16DB65&dates=000000)](https://github.com/ranjitdey#gh-light-mode-only) | -->
-
-## Languages used ⭐
-
-<div align=center>
-
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ranjit-dey&theme=transparent&layout=compact)
+![Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,tailwind,git,github,figma,c,cpp,java,python,linux,docker,postgres)
 
 </div>
 
-## Contribution Graph 📈
+---
 
-<!-- == Activity Graph == -->
-<div align=center>
+## 📊 GitHub Stats & Activity
 
-[![Ranjit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ranjit-dey&bg_color=transparent&title_color=ffffff&theme=github-compact&hide_border=false#gh-dark-mode-only)](https://github.com/ranjit-dey#gh-dark-mode-only)
+<div align="center">
 
-<!-- Light Mode -->
+| **GitHub Statistics** | **Contribution Streak** |
+| :---: | :---: |
+| <a href="https://ranjitdey.in/github"><img src="https://github-readme-stats.vercel.app/api?username=ranjit-dey&show_icons=true&theme=transparent&hide_border=true&title_color=16DB65&icon_color=16DB65&text_color=ffffff&rank_icon=percentile" alt="Ranjit Dey GitHub Stats" width="400" /></a> | <a href="https://ranjitdey.in/github"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjit-dey&theme=transparent&hide_border=true&stroke=16DB65&ring=16DB65&fire=16DB65&currStreakNum=16DB65&sideNums=ffffff&currStreakLabel=16DB65&sideLabels=16DB65&dates=8b949e" alt="Ranjit Dey GitHub Streak" width="400" /></a> |
 
-[![Ranjit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ranjit-dey&bg_color=transparent&title_color=000000&theme=github-compact&hide_border=false#gh-light-mode-only)](https://github.com/ranjit-dey#gh-light-mode-only)
+<br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=ranjit-dey&label=Profile%20views&color=16DB65&style=flat&width=50px)
+### 📈 Activity Graph
 
-**Thanks for visiting..**
+<a href="https://ranjitdey.in/github">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ranjit-dey&bg_color=0d1117&color=16DB65&line=16DB65&point=ffffff&area=true&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ranjit-dey&bg_color=ffffff&color=00A84C&line=00A84C&point=000000&area=true&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranjit-dey&bg_color=0d1117&color=16DB65&line=16DB65&point=ffffff&area=true&hide_border=true" alt="Ranjit Dey GitHub Activity Graph" width="95%" />
+  </picture>
+</a>
+
+</div>
+
+---
+
+## 🌐 Public APIs for Developers
+
+You can query real-time GitHub statistics and contribution calendars for **any GitHub account** using the open APIs deployed on my portfolio:
+
+### 1. Contribution Calendar & Streak API
+```http
+GET https://ranjitdey.in/api/contributions?username=YOUR_GITHUB_USERNAME
+```
+*Returns full day-by-day contribution counts, quartile levels, streak calculation, and active days.*
+
+### 2. User Stats & Metrics API
+```http
+GET https://ranjitdey.in/api/stats?username=YOUR_GITHUB_USERNAME
+```
+*Returns total stars, forks, repositories, rank level (S+/A+/A), PR counts, issue counts, and monthly trends.*
+
+---
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=ranjit-dey&label=Profile%20views&color=16DB65&style=flat)
+
+⭐ **Thanks for visiting!** ⭐
 
 </div>
