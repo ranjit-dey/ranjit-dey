@@ -27,24 +27,27 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 <div align="center">
 
-<img src="icons/html5.svg" alt="HTML5" width="32" height="32" /> &nbsp;&nbsp;
-<img src="icons/css.svg" alt="CSS3" width="32" height="32" /> &nbsp;&nbsp;
-<img src="icons/javascript.svg" alt="JavaScript" width="32" height="32" /> &nbsp;&nbsp;
-<img src="icons/typescript.svg" alt="TypeScript" width="32" height="32" /> &nbsp;&nbsp;
-<img src="icons/react.svg" alt="React" width="32" height="32" /> &nbsp;&nbsp;
-<img src="icons/nextjs.svg" alt="Next.js" width="32" height="32" /> &nbsp;&nbsp;
-<img src="icons/nodejs.svg" alt="Node.js" width="32" height="32" /> &nbsp;&nbsp;
-<img src="icons/tailwind.svg" alt="Tailwind CSS" width="32" height="32" /> &nbsp;&nbsp;
-<img src="icons/git.svg" alt="Git" width="32" height="32" /> &nbsp;&nbsp;
-<img src="icons/github.svg" alt="GitHub" width="32" height="32" /> &nbsp;&nbsp;
-<img src="icons/figma.svg" alt="Figma" width="32" height="32" /> &nbsp;&nbsp;
-<img src="icons/c.svg" alt="C" width="32" height="32" /> &nbsp;&nbsp;
-<img src="icons/cpp.svg" alt="C++" width="32" height="32" /> &nbsp;&nbsp;
-<img src="icons/java.svg" alt="Java" width="32" height="32" /> &nbsp;&nbsp;
-<img src="icons/python.svg" alt="Python" width="32" height="32" /> &nbsp;&nbsp;
-<img src="icons/linux.svg" alt="Linux" width="32" height="32" /> &nbsp;&nbsp;
-<img src="icons/docker.svg" alt="Docker" width="32" height="32" /> &nbsp;&nbsp;
-<img src="icons/postgres.svg" alt="PostgreSQL" width="32" height="32" />
+<img src="icons/html5.svg" alt="HTML5" width="30" height="30" /> &nbsp;
+<img src="icons/css.svg" alt="CSS3" width="30" height="30" /> &nbsp;
+<img src="icons/javascript.svg" alt="JavaScript" width="30" height="30" /> &nbsp;
+<img src="icons/typescript.svg" alt="TypeScript" width="30" height="30" /> &nbsp;
+<img src="icons/react.svg" alt="React" width="30" height="30" /> &nbsp;
+<img src="icons/nextjs.svg" alt="Next.js" width="30" height="30" /> &nbsp;
+<img src="icons/nodejs.svg" alt="Node.js" width="30" height="30" /> &nbsp;
+<img src="icons/tailwind.svg" alt="Tailwind CSS" width="30" height="30" /> &nbsp;
+<img src="icons/git.svg" alt="Git" width="30" height="30" />
+
+<br/>
+
+<img src="icons/github.svg" alt="GitHub" width="30" height="30" /> &nbsp;
+<img src="icons/figma.svg" alt="Figma" width="30" height="30" /> &nbsp;
+<img src="icons/c.svg" alt="C" width="30" height="30" /> &nbsp;
+<img src="icons/cpp.svg" alt="C++" width="30" height="30" /> &nbsp;
+<img src="icons/java.svg" alt="Java" width="30" height="30" /> &nbsp;
+<img src="icons/python.svg" alt="Python" width="30" height="30" /> &nbsp;
+<img src="icons/linux.svg" alt="Linux" width="30" height="30" /> &nbsp;
+<img src="icons/docker.svg" alt="Docker" width="30" height="30" /> &nbsp;
+<img src="icons/postgres.svg" alt="PostgreSQL" width="30" height="30" />
 
 </div>
 
