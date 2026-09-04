@@ -25,7 +25,7 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 ## <img src="icons/code.svg" alt="Tech Stack" width="20" height="20" /> Tech Stack & Tools
 
-<div align="center">
+<div align="center" width="90%">
 
 <img src="icons/html5.svg" alt="HTML5" width="30" height="30" /> &nbsp;
 <img src="icons/css.svg" alt="CSS3" width="30" height="30" /> &nbsp;
@@ -36,9 +36,6 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 <img src="icons/nodejs.svg" alt="Node.js" width="30" height="30" /> &nbsp;
 <img src="icons/tailwind.svg" alt="Tailwind CSS" width="30" height="30" /> &nbsp;
 <img src="icons/git.svg" alt="Git" width="30" height="30" />
-
-<br/>
-
 <img src="icons/github.svg" alt="GitHub" width="30" height="30" /> &nbsp;
 <img src="icons/figma.svg" alt="Figma" width="30" height="30" /> &nbsp;
 <img src="icons/c.svg" alt="C" width="30" height="30" /> &nbsp;
