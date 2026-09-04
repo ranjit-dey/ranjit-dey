@@ -10,7 +10,7 @@
 
 </div>
 
-## whoami
+## <img src="icons/user.svg" alt="whoami" width="20" height="20" /> whoami
 
 Hi, I'm **Ranjit Dey**, a CS Guy who loves building things, solving problems, and learning new technologies.
 Currently exploring full-stack development, backend engineering, and AI while turning ideas into real-world projects.
@@ -23,24 +23,31 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 ---
 
-## Tech Stack & Tools
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | <img src="icons/c.svg" alt="C" width="18" height="18" /> C &nbsp;&bull;&nbsp; <img src="icons/cpp.svg" alt="C++" width="18" height="18" /> C++ &nbsp;&bull;&nbsp; <img src="icons/java.svg" alt="Java" width="18" height="18" /> Java &nbsp;&bull;&nbsp; <img src="icons/python.svg" alt="Python" width="18" height="18" /> Python &nbsp;&bull;&nbsp; <img src="icons/javascript.svg" alt="JavaScript" width="18" height="18" /> JavaScript &nbsp;&bull;&nbsp; <img src="icons/typescript.svg" alt="TypeScript" width="18" height="18" /> TypeScript |
-| **Frontend** | <img src="icons/react.svg" alt="React" width="18" height="18" /> React &nbsp;&bull;&nbsp; <img src="icons/nextjs.svg" alt="Next.js" width="18" height="18" /> Next.js &nbsp;&bull;&nbsp; <img src="icons/tailwind.svg" alt="Tailwind CSS" width="18" height="18" /> Tailwind CSS &nbsp;&bull;&nbsp; <img src="icons/html5.svg" alt="HTML5" width="18" height="18" /> HTML5 &nbsp;&bull;&nbsp; <img src="icons/css.svg" alt="CSS3" width="18" height="18" /> CSS3 |
-| **Backend & DB** | <img src="icons/nodejs.svg" alt="Node.js" width="18" height="18" /> Node.js &nbsp;&bull;&nbsp; <img src="icons/postgres.svg" alt="PostgreSQL" width="18" height="18" /> PostgreSQL |
-| **Tools & Platforms** | <img src="icons/git.svg" alt="Git" width="18" height="18" /> Git &nbsp;&bull;&nbsp; <img src="icons/github.svg" alt="GitHub" width="18" height="18" /> GitHub &nbsp;&bull;&nbsp; <img src="icons/docker.svg" alt="Docker" width="18" height="18" /> Docker &nbsp;&bull;&nbsp; <img src="icons/linux.svg" alt="Linux" width="18" height="18" /> Linux &nbsp;&bull;&nbsp; <img src="icons/figma.svg" alt="Figma" width="18" height="18" /> Figma |
-
----
-
-## GitHub Stats & Activity
+## <img src="icons/code.svg" alt="Tech Stack" width="20" height="20" /> Tech Stack & Tools
 
 <div align="center">
 
-| **GitHub Statistics** | **Contribution Streak** |
-| :---: | :---: |
-| <a href="https://ranjitdey.in/github"><img src="https://ranjitdey.in/api/svg/stats?username=ranjit-dey" alt="Ranjit Dey GitHub Stats" width="400" /></a> | <a href="https://ranjitdey.in/github"><img src="https://ranjitdey.in/api/svg/streak?username=ranjit-dey" alt="Ranjit Dey GitHub Streak" width="400" /></a> |
+| <img src="icons/html5.svg" alt="HTML5" width="28" height="28" /><br/>HTML5 | <img src="icons/css.svg" alt="CSS3" width="28" height="28" /><br/>CSS3 | <img src="icons/javascript.svg" alt="JavaScript" width="28" height="28" /><br/>JavaScript | <img src="icons/typescript.svg" alt="TypeScript" width="28" height="28" /><br/>TypeScript | <img src="icons/react.svg" alt="React" width="28" height="28" /><br/>React | <img src="icons/nextjs.svg" alt="Next.js" width="28" height="28" /><br/>Next.js |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="icons/nodejs.svg" alt="Node.js" width="28" height="28" /><br/>Node.js | <img src="icons/tailwind.svg" alt="Tailwind CSS" width="28" height="28" /><br/>Tailwind | <img src="icons/git.svg" alt="Git" width="28" height="28" /><br/>Git | <img src="icons/github.svg" alt="GitHub" width="28" height="28" /><br/>GitHub | <img src="icons/figma.svg" alt="Figma" width="28" height="28" /><br/>Figma | <img src="icons/c.svg" alt="C" width="28" height="28" /><br/>C |
+| <img src="icons/cpp.svg" alt="C++" width="28" height="28" /><br/>C++ | <img src="icons/java.svg" alt="Java" width="28" height="28" /><br/>Java | <img src="icons/python.svg" alt="Python" width="28" height="28" /><br/>Python | <img src="icons/linux.svg" alt="Linux" width="28" height="28" /><br/>Linux | <img src="icons/docker.svg" alt="Docker" width="28" height="28" /><br/>Docker | <img src="icons/postgres.svg" alt="PostgreSQL" width="28" height="28" /><br/>PostgreSQL |
+
+</div>
+
+---
+
+## <img src="icons/stats.svg" alt="GitHub Stats" width="20" height="20" /> GitHub Stats & Activity
+
+<div align="center">
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://ranjitdey.in/github"><img src="https://ranjitdey.in/api/svg/stats?username=ranjit-dey" alt="Ranjit Dey GitHub Stats" width="400" /></a></td>
+      <td align="center"><a href="https://ranjitdey.in/github"><img src="https://ranjitdey.in/api/svg/streak?username=ranjit-dey" alt="Ranjit Dey GitHub Streak" width="400" /></a></td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
@@ -52,7 +59,7 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 ---
 
-## Public APIs for Developers
+## <img src="icons/api.svg" alt="Public APIs" width="20" height="20" /> Public APIs for Developers
 
 You can query real-time GitHub statistics and contribution calendars for **any GitHub account** using the open APIs deployed on my portfolio:
 
