@@ -1,7 +1,7 @@
 ![banner](banner.png)
 
 <div align="center">
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td align="center" width="44" height="44"><a href="https://www.linkedin.com/in/ranjitdey/"><img src="icons/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a></td>
@@ -30,7 +30,7 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 ## <img src="icons/code.svg" alt="Tech Stack" width="20" height="20" /> Tech Stack & Tools
 
 <div align="center">
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td align="center" width="48" height="48"><img src="icons/html5.svg" alt="HTML5" width="28" height="28" /></td>
@@ -66,7 +66,7 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 <div align="center">
 
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td align="center"><a href="https://ranjitdey.in/github"><img src="https://ranjitdey.in/api/svg/stats?username=ranjit-dey" alt="Ranjit Dey GitHub Stats" width="400" /></a></td>
