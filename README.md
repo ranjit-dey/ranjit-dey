@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ranjitdey/"><img src="icons/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:ranjitdey05265@gmail.com"><img src="icons/gmail.svg" alt="Gmail" width="22" height="22" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.x.com/ranjitdey_"><img src="icons/x.svg" alt="X" width="22" height="22" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/_ranjitdey"><img src="icons/instagram.svg" alt="Instagram" width="22" height="22" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/ranjitdey2004"><img src="icons/facebook.svg" alt="Facebook" width="22" height="22" /></a>
+<a href="https://www.linkedin.com/in/ranjitdey/"><img src="icons/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> &nbsp;&nbsp;&nbsp; <a href="mailto:ranjitdey05265@gmail.com"><img src="icons/gmail.svg" alt="Gmail" width="22" height="22" /></a> &nbsp;&nbsp;&nbsp; <a href="https://www.x.com/ranjitdey_"><img src="icons/x.svg" alt="X" width="22" height="22" /></a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/_ranjitdey"><img src="icons/instagram.svg" alt="Instagram" width="22" height="22" /></a> &nbsp;&nbsp;&nbsp; <a href="https://www.facebook.com/ranjitdey2004"><img src="icons/facebook.svg" alt="Facebook" width="22" height="22" /></a>
 
 </div>
 
@@ -21,41 +17,23 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 </div>
 
-
+---
 
 ## <img src="icons/code.svg" alt="Tech Stack" width="20" height="20" /> Tech Stack & Tools
 
-<div align="center" width="90%">
+<div align="center">
 
-<img src="icons/html5.svg" alt="HTML5" width="30" height="30" /> &nbsp;
-<img src="icons/css.svg" alt="CSS3" width="30" height="30" /> &nbsp;
-<img src="icons/javascript.svg" alt="JavaScript" width="30" height="30" /> &nbsp;
-<img src="icons/typescript.svg" alt="TypeScript" width="30" height="30" /> &nbsp;
-<img src="icons/react.svg" alt="React" width="30" height="30" /> &nbsp;
-<img src="icons/nextjs.svg" alt="Next.js" width="30" height="30" /> &nbsp;
-<img src="icons/nodejs.svg" alt="Node.js" width="30" height="30" /> &nbsp;
-<img src="icons/tailwind.svg" alt="Tailwind CSS" width="30" height="30" /> &nbsp;
-<img src="icons/git.svg" alt="Git" width="30" height="30" />
-<img src="icons/github.svg" alt="GitHub" width="30" height="30" /> &nbsp;
-<img src="icons/figma.svg" alt="Figma" width="30" height="30" /> &nbsp;
-<img src="icons/c.svg" alt="C" width="30" height="30" /> &nbsp;
-<img src="icons/cpp.svg" alt="C++" width="30" height="30" /> &nbsp;
-<img src="icons/java.svg" alt="Java" width="30" height="30" /> &nbsp;
-<img src="icons/python.svg" alt="Python" width="30" height="30" /> &nbsp;
-<img src="icons/linux.svg" alt="Linux" width="30" height="30" /> &nbsp;
-<img src="icons/docker.svg" alt="Docker" width="30" height="30" /> &nbsp;
-<img src="icons/postgres.svg" alt="PostgreSQL" width="30" height="30" />
+<img src="icons/html5.svg" alt="HTML5" width="30" height="30" /> &nbsp; <img src="icons/css.svg" alt="CSS3" width="30" height="30" /> &nbsp; <img src="icons/javascript.svg" alt="JavaScript" width="30" height="30" /> &nbsp; <img src="icons/typescript.svg" alt="TypeScript" width="30" height="30" /> &nbsp; <img src="icons/react.svg" alt="React" width="30" height="30" /> &nbsp; <img src="icons/nextjs.svg" alt="Next.js" width="30" height="30" /> &nbsp; <img src="icons/nodejs.svg" alt="Node.js" width="30" height="30" /> &nbsp; <img src="icons/tailwind.svg" alt="Tailwind CSS" width="30" height="30" /> &nbsp; <img src="icons/git.svg" alt="Git" width="30" height="30" /> &nbsp; <img src="icons/github.svg" alt="GitHub" width="30" height="30" /> &nbsp; <img src="icons/figma.svg" alt="Figma" width="30" height="30" /> &nbsp; <img src="icons/c.svg" alt="C" width="30" height="30" /> &nbsp; <img src="icons/cpp.svg" alt="C++" width="30" height="30" /> &nbsp; <img src="icons/java.svg" alt="Java" width="30" height="30" /> &nbsp; <img src="icons/python.svg" alt="Python" width="30" height="30" /> &nbsp; <img src="icons/linux.svg" alt="Linux" width="30" height="30" /> &nbsp; <img src="icons/docker.svg" alt="Docker" width="30" height="30" /> &nbsp; <img src="icons/postgres.svg" alt="PostgreSQL" width="30" height="30" />
 
 </div>
 
-
+---
 
 ## <img src="icons/stats.svg" alt="GitHub Stats" width="20" height="20" /> GitHub Stats & Activity
 
 <div align="center">
 
 <a href="https://ranjitdey.in/github"><img src="https://ranjitdey.in/api/svg/stats?username=ranjit-dey" alt="Ranjit Dey GitHub Stats" width="49.5%" height="auto" /></a>
-<a width="1%"></a>
 <a href="https://ranjitdey.in/github"><img src="https://ranjitdey.in/api/svg/streak?username=ranjit-dey" alt="Ranjit Dey GitHub Streak" width="49.5%" height="auto" /></a>
 <a href="https://ranjitdey.in/github">
 <img src="https://ranjitdey.in/api/svg/activity?username=ranjit-dey" alt="Ranjit Dey GitHub Activity Graph" width="100%" height="auto" />
@@ -63,7 +41,7 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 </div>
 
-
+---
 
 ## <img src="icons/api.svg" alt="Public APIs" width="20" height="20" /> Public APIs for Developers
 
@@ -79,7 +57,7 @@ You can query real-time GitHub statistics and contribution calendars for **any G
 
 > **Base URL:** `https://ranjitdey.in` — free to use in your own profile README!
 
-
+---
 
 <div align="center">
 
