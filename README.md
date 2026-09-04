@@ -27,11 +27,10 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 <div align="center">
 
-| <img src="icons/html5.svg" alt="HTML5" width="28" height="28" /><br/>HTML5 | <img src="icons/css.svg" alt="CSS3" width="28" height="28" /><br/>CSS3 | <img src="icons/javascript.svg" alt="JavaScript" width="28" height="28" /><br/>JavaScript | <img src="icons/typescript.svg" alt="TypeScript" width="28" height="28" /><br/>TypeScript | <img src="icons/react.svg" alt="React" width="28" height="28" /><br/>React | <img src="icons/nextjs.svg" alt="Next.js" width="28" height="28" /><br/>Next.js |
+| <img src="icons/html5.svg" alt="HTML5" width="28" height="28" /> | <img src="icons/css.svg" alt="CSS3" width="28" height="28" /> | <img src="icons/javascript.svg" alt="JavaScript" width="28" height="28" /> | <img src="icons/typescript.svg" alt="TypeScript" width="28" height="28" /> | <img src="icons/react.svg" alt="React" width="28" height="28" /> | <img src="icons/nextjs.svg" alt="Next.js" width="28" height="28" /> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="icons/nodejs.svg" alt="Node.js" width="28" height="28" /><br/>Node.js | <img src="icons/tailwind.svg" alt="Tailwind CSS" width="28" height="28" /><br/>Tailwind | <img src="icons/git.svg" alt="Git" width="28" height="28" /><br/>Git | <img src="icons/github.svg" alt="GitHub" width="28" height="28" /><br/>GitHub | <img src="icons/figma.svg" alt="Figma" width="28" height="28" /><br/>Figma | <img src="icons/c.svg" alt="C" width="28" height="28" /><br/>C |
-| <img src="icons/cpp.svg" alt="C++" width="28" height="28" /><br/>C++ | <img src="icons/java.svg" alt="Java" width="28" height="28" /><br/>Java | <img src="icons/python.svg" alt="Python" width="28" height="28" /><br/>Python | <img src="icons/linux.svg" alt="Linux" width="28" height="28" /><br/>Linux | <img src="icons/docker.svg" alt="Docker" width="28" height="28" /><br/>Docker | <img src="icons/postgres.svg" alt="PostgreSQL" width="28" height="28" /><br/>PostgreSQL |
-
+| <img src="icons/nodejs.svg" alt="Node.js" width="28" height="28" /> | <img src="icons/tailwind.svg" alt="Tailwind CSS" width="28" height="28" /> | <img src="icons/git.svg" alt="Git" width="28" height="28" /> | <img src="icons/github.svg" alt="GitHub" width="28" height="28" /> | <img src="icons/figma.svg" alt="Figma" width="28" height="28" /> | <img src="icons/c.svg" alt="C" width="28" height="28" /> |
+| <img src="icons/cpp.svg" alt="C++" width="28" height="28" /> | <img src="icons/java.svg" alt="Java" width="28" height="28" /> | <img src="icons/python.svg" alt="Python" width="28" height="28" /> | <img src="icons/linux.svg" alt="Linux" width="28" height="28" /> | <img src="icons/docker.svg" alt="Docker" width="28" height="28" /> | <img src="icons/postgres.svg" alt="PostgreSQL" width="28" height="28" /> |
 </div>
 
 ---
