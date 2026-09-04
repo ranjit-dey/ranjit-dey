@@ -73,7 +73,6 @@ Currently exploring full-stack development, backend engineering, and AI while tu
   <img src="https://ranjitdey.in/api/svg/streak?username=ranjit-dey" alt="Ranjit Dey GitHub Streak" width="49%" height="auto" />
 </a>
 
-<br/><br/>
 
 <a href="https://ranjitdey.in/github">
   <img src="https://ranjitdey.in/api/svg/activity?username=ranjit-dey" alt="Ranjit Dey GitHub Activity Graph" width="100%" height="auto" />
