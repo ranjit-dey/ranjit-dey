@@ -66,11 +66,11 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 <div align="center">
 
-<table align="center">
+<table align="center" width="100%">
   <tbody>
     <tr>
-      <td align="center"><a href="https://ranjitdey.in/github"><img src="https://ranjitdey.in/api/svg/stats?username=ranjit-dey" alt="Ranjit Dey GitHub Stats" width="400" /></a></td>
-      <td align="center"><a href="https://ranjitdey.in/github"><img src="https://ranjitdey.in/api/svg/streak?username=ranjit-dey" alt="Ranjit Dey GitHub Streak" width="400" /></a></td>
+      <td align="center" width="50%"><a href="https://ranjitdey.in/github"><img src="https://ranjitdey.in/api/svg/stats?username=ranjit-dey" alt="Ranjit Dey GitHub Stats" width="100%" height="auto" /></a></td>
+      <td align="center" width="50%"><a href="https://ranjitdey.in/github"><img src="https://ranjitdey.in/api/svg/streak?username=ranjit-dey" alt="Ranjit Dey GitHub Streak" width="100%" height="auto" /></a></td>
     </tr>
   </tbody>
 </table>
@@ -78,7 +78,7 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 <br/>
 
 <a href="https://ranjitdey.in/github">
-  <img src="https://ranjitdey.in/api/svg/activity?username=ranjit-dey" alt="Ranjit Dey GitHub Activity Graph" width="95%" />
+  <img src="https://ranjitdey.in/api/svg/activity?username=ranjit-dey" alt="Ranjit Dey GitHub Activity Graph" width="100%" height="auto" />
 </a>
 
 </div>
