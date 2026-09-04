@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ranjitdey/"><img src="icons/linkedin.svg" alt="LinkedIn" height="38" /></a>
-<a href="mailto:ranjitdey05265@gmail.com"><img src="icons/gmail.svg" alt="Gmail" height="38" /></a>
-<a href="https://www.x.com/ranjitdey_"><img src="icons/x.svg" alt="X" height="38" /></a>
-<a href="https://www.instagram.com/_ranjitdey"><img src="icons/instagram.svg" alt="Instagram" height="38" /></a>
-<a href="https://www.facebook.com/ranjitdey2004"><img src="icons/facebook.svg" alt="Facebook" height="38" /></a>
+<a href="https://www.linkedin.com/in/ranjitdey/"><img src="icons/linkedin.svg" alt="LinkedIn" height="34" /></a> <a href="mailto:ranjitdey05265@gmail.com"><img src="icons/gmail.svg" alt="Gmail" height="34" /></a> <a href="https://www.x.com/ranjitdey_"><img src="icons/x.svg" alt="X" height="34" /></a> <a href="https://www.instagram.com/_ranjitdey"><img src="icons/instagram.svg" alt="Instagram" height="34" /></a> <a href="https://www.facebook.com/ranjitdey2004"><img src="icons/facebook.svg" alt="Facebook" height="34" /></a>
 
 </div>
 
@@ -17,8 +13,7 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 <div align="center">
 
-<a href="https://ranjitdey.in"><img src="icons/portfolio.svg" alt="Explore Portfolio" height="38" /></a>
-<a href="https://ranjitdey.in/github"><img src="icons/github_dash.svg" alt="Live GitHub Dashboard" height="38" /></a>
+<a href="https://ranjitdey.in"><img src="icons/portfolio.svg" alt="Explore Portfolio" height="34" /></a> <a href="https://ranjitdey.in/github"><img src="icons/github_dash.svg" alt="Live GitHub Dashboard" height="34" /></a>
 
 <br/>
 
