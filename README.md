@@ -2,11 +2,8 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ranjitdey/"><img src="icons/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:ranjitdey05265@gmail.com"><img src="icons/gmail.svg" alt="Gmail" width="22" height="22" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.x.com/ranjitdey_"><img src="icons/x.svg" alt="X" width="22" height="22" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/_ranjitdey"><img src="icons/instagram.svg" alt="Instagram" width="22" height="22" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/ranjitdey2004"><img src="icons/facebook.svg" alt="Facebook" width="22" height="22" /></a>
+| [<img src="icons/linkedin.svg" alt="LinkedIn" width="22" height="22" />](https://www.linkedin.com/in/ranjitdey/) | [<img src="icons/gmail.svg" alt="Gmail" width="22" height="22" />](mailto:ranjitdey05265@gmail.com) | [<img src="icons/x.svg" alt="X" width="22" height="22" />](https://www.x.com/ranjitdey_) | [<img src="icons/instagram.svg" alt="Instagram" width="22" height="22" />](https://www.instagram.com/_ranjitdey) | [<img src="icons/facebook.svg" alt="Facebook" width="22" height="22" />](https://www.facebook.com/ranjitdey2004) |
+| :---: | :---: | :---: | :---: | :---: |
 
 </div>
 
@@ -17,7 +14,7 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 <div align="center">
 
-<a href="https://ranjitdey.in"><img src="icons/globe.svg" alt="Portfolio" width="16" height="16" /> <strong>Explore Portfolio</strong></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; <a href="https://ranjitdey.in/github"><img src="icons/github.svg" alt="GitHub" width="16" height="16" /> <strong>Live GitHub Dashboard</strong></a>
+<a href="https://ranjitdey.in"><img src="icons/portfolio.svg" alt="Explore Portfolio" height="34" /></a> &nbsp;&nbsp; <a href="https://ranjitdey.in/github"><img src="icons/github_dash.svg" alt="Live GitHub Dashboard" height="34" /></a>
 
 </div>
 
