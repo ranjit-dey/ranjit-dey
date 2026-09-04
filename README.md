@@ -32,18 +32,14 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 | **GitHub Statistics** | **Contribution Streak** |
 | :---: | :---: |
-| <a href="https://ranjitdey.in/github"><img src="https://github-readme-stats.vercel.app/api?username=ranjit-dey&show_icons=true&theme=transparent&hide_border=true&title_color=16DB65&icon_color=16DB65&text_color=ffffff&rank_icon=percentile" alt="Ranjit Dey GitHub Stats" width="400" /></a> | <a href="https://ranjitdey.in/github"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjit-dey&theme=transparent&hide_border=true&stroke=16DB65&ring=16DB65&fire=16DB65&currStreakNum=16DB65&sideNums=ffffff&currStreakLabel=16DB65&sideLabels=16DB65&dates=8b949e" alt="Ranjit Dey GitHub Streak" width="400" /></a> |
+| <a href="https://ranjitdey.in/github"><img src="https://ranjitdey.in/api/svg/stats?username=ranjit-dey" alt="Ranjit Dey GitHub Stats" width="400" /></a> | <a href="https://ranjitdey.in/github"><img src="https://ranjitdey.in/api/svg/streak?username=ranjit-dey" alt="Ranjit Dey GitHub Streak" width="400" /></a> |
 
 <br/>
 
 ### 📈 Activity Graph
 
 <a href="https://ranjitdey.in/github">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ranjit-dey&bg_color=0d1117&color=16DB65&line=16DB65&point=ffffff&area=true&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ranjit-dey&bg_color=ffffff&color=00A84C&line=00A84C&point=000000&area=true&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranjit-dey&bg_color=0d1117&color=16DB65&line=16DB65&point=ffffff&area=true&hide_border=true" alt="Ranjit Dey GitHub Activity Graph" width="95%" />
-  </picture>
+  <img src="https://ranjitdey.in/api/svg/activity?username=ranjit-dey" alt="Ranjit Dey GitHub Activity Graph" width="95%" />
 </a>
 
 </div>
@@ -65,6 +61,13 @@ GET https://ranjitdey.in/api/contributions?username=YOUR_GITHUB_USERNAME
 GET https://ranjitdey.in/api/stats?username=YOUR_GITHUB_USERNAME
 ```
 *Returns total stars, forks, repositories, rank level (S+/A+/A), PR counts, issue counts, and monthly trends.*
+
+### 3. Dynamic SVG Cards & Graph APIs
+```http
+GET https://ranjitdey.in/api/svg/stats?username=YOUR_GITHUB_USERNAME
+GET https://ranjitdey.in/api/svg/streak?username=YOUR_GITHUB_USERNAME
+GET https://ranjitdey.in/api/svg/activity?username=YOUR_GITHUB_USERNAME
+```
 
 ---
 
