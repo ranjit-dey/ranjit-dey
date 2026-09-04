@@ -2,7 +2,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00A84C?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ranjitdey/) [![Gmail](https://img.shields.io/badge/Gmail-00A84C?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:ranjitdey05265@gmail.com) [![X](https://img.shields.io/badge/X-00A84C?style=for-the-badge&logo=x&logoColor=ffffff)](https://www.x.com/ranjitdey_) [![Instagram](https://img.shields.io/badge/Instagram-00A84C?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/_ranjitdey) [![Facebook](https://img.shields.io/badge/Facebook-00A84C?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ranjitdey2004)
+<a href="https://www.linkedin.com/in/ranjitdey/"><img src="icons/linkedin.svg" alt="LinkedIn" height="38" /></a>
+<a href="mailto:ranjitdey05265@gmail.com"><img src="icons/gmail.svg" alt="Gmail" height="38" /></a>
+<a href="https://www.x.com/ranjitdey_"><img src="icons/x.svg" alt="X" height="38" /></a>
+<a href="https://www.instagram.com/_ranjitdey"><img src="icons/instagram.svg" alt="Instagram" height="38" /></a>
+<a href="https://www.facebook.com/ranjitdey2004"><img src="icons/facebook.svg" alt="Facebook" height="38" /></a>
 
 </div>
 
@@ -13,13 +17,33 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 <div align="center">
 
-[![Explore Portfolio](https://img.shields.io/badge/Explore_Portfolio-ranjitdey.in-00A84C?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161b22)](https://ranjitdey.in) [![Live GitHub Dashboard](https://img.shields.io/badge/Live_GitHub_Dashboard-ranjitdey.in%2Fgithub-00A84C?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://ranjitdey.in/github)
+<a href="https://ranjitdey.in"><img src="icons/portfolio.svg" alt="Explore Portfolio" height="38" /></a>
+<a href="https://ranjitdey.in/github"><img src="icons/github_dash.svg" alt="Live GitHub Dashboard" height="38" /></a>
 
 <br/>
 
 ### 🛠️ Tech Stack & Tools
 
-![Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,tailwind,git,github,figma,c,cpp,java,python,linux,docker,postgres)
+<p align="center">
+  <img src="icons/html5.svg" alt="HTML5" width="44" height="44" />
+  <img src="icons/css.svg" alt="CSS3" width="44" height="44" />
+  <img src="icons/javascript.svg" alt="JavaScript" width="44" height="44" />
+  <img src="icons/typescript.svg" alt="TypeScript" width="44" height="44" />
+  <img src="icons/react.svg" alt="React" width="44" height="44" />
+  <img src="icons/nextjs.svg" alt="Next.js" width="44" height="44" />
+  <img src="icons/nodejs.svg" alt="Node.js" width="44" height="44" />
+  <img src="icons/tailwind.svg" alt="Tailwind CSS" width="44" height="44" />
+  <img src="icons/git.svg" alt="Git" width="44" height="44" />
+  <img src="icons/github.svg" alt="GitHub" width="44" height="44" />
+  <img src="icons/figma.svg" alt="Figma" width="44" height="44" />
+  <img src="icons/c.svg" alt="C" width="44" height="44" />
+  <img src="icons/cpp.svg" alt="C++" width="44" height="44" />
+  <img src="icons/java.svg" alt="Java" width="44" height="44" />
+  <img src="icons/python.svg" alt="Python" width="44" height="44" />
+  <img src="icons/linux.svg" alt="Linux" width="44" height="44" />
+  <img src="icons/docker.svg" alt="Docker" width="44" height="44" />
+  <img src="icons/postgres.svg" alt="PostgreSQL" width="44" height="44" />
+</p>
 
 </div>
 
@@ -62,8 +86,6 @@ You can query real-time GitHub statistics and contribution calendars for **any G
 ---
 
 <div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=ranjit-dey&label=Profile%20views&color=16DB65&style=flat)
 
 ⭐ **Thanks for visiting!** ⭐
 
