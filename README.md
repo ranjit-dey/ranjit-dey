@@ -13,8 +13,8 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 <div align="center">
 
-[![Visit Portfolio](https://img.shields.io/badge/🌐_Explore_Portfolio-ranjitdey.in-16DB65?style=for-the-badge&logoColor=white&labelColor=0d1117)](https://ranjitdey.in)
-[![GitHub Insights](https://img.shields.io/badge/📊_Live_GitHub_Dashboard-ranjitdey.in%2Fgithub-00A84C?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://ranjitdey.in/github)
+[![Explore Portfolio](https://img.shields.io/badge/Explore_Portfolio-ranjitdey.in-00A84C?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161b22)](https://ranjitdey.in)
+[![Live GitHub Dashboard](https://img.shields.io/badge/Live_GitHub_Dashboard-ranjitdey.in%2Fgithub-00A84C?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://ranjitdey.in/github)
 
 <br/>
 
