@@ -21,7 +21,7 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 </div>
 
----
+
 
 ## <img src="icons/code.svg" alt="Tech Stack" width="20" height="20" /> Tech Stack & Tools
 
@@ -48,7 +48,7 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 </div>
 
----
+
 
 ## <img src="icons/stats.svg" alt="GitHub Stats" width="20" height="20" /> GitHub Stats & Activity
 
@@ -63,7 +63,7 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 
 </div>
 
----
+
 
 ## <img src="icons/api.svg" alt="Public APIs" width="20" height="20" /> Public APIs for Developers
 
@@ -79,7 +79,7 @@ You can query real-time GitHub statistics and contribution calendars for **any G
 
 > **Base URL:** `https://ranjitdey.in` — free to use in your own profile README!
 
----
+
 
 <div align="center">
 
