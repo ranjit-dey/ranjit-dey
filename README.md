@@ -1,10 +1,17 @@
 ![banner](banner.png)
 
 <div align="center">
-
-| [<img src="icons/linkedin.svg" alt="LinkedIn" width="22" height="22" />](https://www.linkedin.com/in/ranjitdey/) | [<img src="icons/gmail.svg" alt="Gmail" width="22" height="22" />](mailto:ranjitdey05265@gmail.com) | [<img src="icons/x.svg" alt="X" width="22" height="22" />](https://www.x.com/ranjitdey_) | [<img src="icons/instagram.svg" alt="Instagram" width="22" height="22" />](https://www.instagram.com/_ranjitdey) | [<img src="icons/facebook.svg" alt="Facebook" width="22" height="22" />](https://www.facebook.com/ranjitdey2004) |
-| :---: | :---: | :---: | :---: | :---: |
-
+<table>
+  <tbody>
+    <tr>
+      <td align="center" width="44" height="44"><a href="https://www.linkedin.com/in/ranjitdey/"><img src="icons/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a></td>
+      <td align="center" width="44" height="44"><a href="mailto:ranjitdey05265@gmail.com"><img src="icons/gmail.svg" alt="Gmail" width="22" height="22" /></a></td>
+      <td align="center" width="44" height="44"><a href="https://www.x.com/ranjitdey_"><img src="icons/x.svg" alt="X" width="22" height="22" /></a></td>
+      <td align="center" width="44" height="44"><a href="https://www.instagram.com/_ranjitdey"><img src="icons/instagram.svg" alt="Instagram" width="22" height="22" /></a></td>
+      <td align="center" width="44" height="44"><a href="https://www.facebook.com/ranjitdey2004"><img src="icons/facebook.svg" alt="Facebook" width="22" height="22" /></a></td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 ## <img src="icons/user.svg" alt="whoami" width="20" height="20" /> whoami
@@ -23,11 +30,34 @@ Currently exploring full-stack development, backend engineering, and AI while tu
 ## <img src="icons/code.svg" alt="Tech Stack" width="20" height="20" /> Tech Stack & Tools
 
 <div align="center">
-
-| <img src="icons/html5.svg" alt="HTML5" width="28" height="28" /> | <img src="icons/css.svg" alt="CSS3" width="28" height="28" /> | <img src="icons/javascript.svg" alt="JavaScript" width="28" height="28" /> | <img src="icons/typescript.svg" alt="TypeScript" width="28" height="28" /> | <img src="icons/react.svg" alt="React" width="28" height="28" /> | <img src="icons/nextjs.svg" alt="Next.js" width="28" height="28" /> |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="icons/nodejs.svg" alt="Node.js" width="28" height="28" /> | <img src="icons/tailwind.svg" alt="Tailwind CSS" width="28" height="28" /> | <img src="icons/git.svg" alt="Git" width="28" height="28" /> | <img src="icons/github.svg" alt="GitHub" width="28" height="28" /> | <img src="icons/figma.svg" alt="Figma" width="28" height="28" /> | <img src="icons/c.svg" alt="C" width="28" height="28" /> |
-| <img src="icons/cpp.svg" alt="C++" width="28" height="28" /> | <img src="icons/java.svg" alt="Java" width="28" height="28" /> | <img src="icons/python.svg" alt="Python" width="28" height="28" /> | <img src="icons/linux.svg" alt="Linux" width="28" height="28" /> | <img src="icons/docker.svg" alt="Docker" width="28" height="28" /> | <img src="icons/postgres.svg" alt="PostgreSQL" width="28" height="28" /> |
+<table>
+  <tbody>
+    <tr>
+      <td align="center" width="48" height="48"><img src="icons/html5.svg" alt="HTML5" width="28" height="28" /></td>
+      <td align="center" width="48" height="48"><img src="icons/css.svg" alt="CSS3" width="28" height="28" /></td>
+      <td align="center" width="48" height="48"><img src="icons/javascript.svg" alt="JavaScript" width="28" height="28" /></td>
+      <td align="center" width="48" height="48"><img src="icons/typescript.svg" alt="TypeScript" width="28" height="28" /></td>
+      <td align="center" width="48" height="48"><img src="icons/react.svg" alt="React" width="28" height="28" /></td>
+      <td align="center" width="48" height="48"><img src="icons/nextjs.svg" alt="Next.js" width="28" height="28" /></td>
+    </tr>
+    <tr>
+      <td align="center" width="48" height="48"><img src="icons/nodejs.svg" alt="Node.js" width="28" height="28" /></td>
+      <td align="center" width="48" height="48"><img src="icons/tailwind.svg" alt="Tailwind CSS" width="28" height="28" /></td>
+      <td align="center" width="48" height="48"><img src="icons/git.svg" alt="Git" width="28" height="28" /></td>
+      <td align="center" width="48" height="48"><img src="icons/github.svg" alt="GitHub" width="28" height="28" /></td>
+      <td align="center" width="48" height="48"><img src="icons/figma.svg" alt="Figma" width="28" height="28" /></td>
+      <td align="center" width="48" height="48"><img src="icons/c.svg" alt="C" width="28" height="28" /></td>
+    </tr>
+    <tr>
+      <td align="center" width="48" height="48"><img src="icons/cpp.svg" alt="C++" width="28" height="28" /></td>
+      <td align="center" width="48" height="48"><img src="icons/java.svg" alt="Java" width="28" height="28" /></td>
+      <td align="center" width="48" height="48"><img src="icons/python.svg" alt="Python" width="28" height="28" /></td>
+      <td align="center" width="48" height="48"><img src="icons/linux.svg" alt="Linux" width="28" height="28" /></td>
+      <td align="center" width="48" height="48"><img src="icons/docker.svg" alt="Docker" width="28" height="28" /></td>
+      <td align="center" width="48" height="48"><img src="icons/postgres.svg" alt="PostgreSQL" width="28" height="28" /></td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 ---
